@@ -1,6 +1,7 @@
-# uniswap-org
+# shibacat swap
 
-Contains the source code for the [uniswap.org](https://uniswap.org) homepage.
+Contains the source code for the [exchange.shibacat.online](https://exchange.shibacat.online) homepage. 
+Powered by Uniswap Protocol
 
 ## Development
 
